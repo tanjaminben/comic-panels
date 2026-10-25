@@ -1,0 +1,13 @@
+{
+  "name": "@ben-tan/comic-panels",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "check": "node scripts/verify-source.mjs",
+    "test": "node tests/image-lifecycle.test.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}

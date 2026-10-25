@@ -1,0 +1,146 @@
+[
+  {
+    "id": "CP-01-01",
+    "title": "Private by default",
+    "alt": "A peacock spreads a tail made of cameras, microphones and listening devices while standing on a plinth labeled ‘Private by default.’",
+    "note": "I kept seeing companies say how seriously they took privacy, then finding a different story in their cookie settings, forms, or privacy notices. The peacock is that contradiction: proudly displaying its privacy credentials while every feather is watching or listening. I wanted to poke fun at how easy it is to say the right thing—and how much more the details tell us.",
+    "image": "/guides/comic-panels/images/CP-01-01-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-01-01-ben-tan.webp"
+  },
+  {
+    "id": "CP-01-02",
+    "title": "No data leaves the environment",
+    "alt": "A worried goldfish sits inside a bowl packed with cameras, microphones and filing cabinets. The bowl reads ‘No data leaves the environment.’",
+    "note": "When I hear ‘nothing leaves the environment,’ my next question is what happens to the information inside. Keeping data within a boundary still leaves questions about how it is used. The fishbowl captures that gap: everything stays inside, but the fish is still being watched from every angle.",
+    "image": "/guides/comic-panels/images/CP-01-02-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-01-02-ben-tan.webp"
+  },
+  {
+    "id": "CP-01-06",
+    "title": "Data minimization",
+    "alt": "An octopus in a monocle and bow tie gathers a fingerprint, keys, a book, a portrait, an armchair and the moon. A cat sticks out of its bag labeled ‘Data minimization.’",
+    "note": "The octopus looks clever and prepared, but it is collecting everything before deciding what any of it is for. I see that habit in conversations about personal information: sometimes the reason for a field is simply that everyone else asks for it. The joke is ‘just in case’ taken to an absurd extreme. And the cat gives the bag a second meaning—eventually, the cat may get out.",
+    "image": "/guides/comic-panels/images/CP-01-06-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-01-06-ben-tan.webp"
+  },
+  {
+    "id": "CP-02-01",
+    "title": "Anonymized",
+    "alt": "A tall giraffe in a penguin costume stands among four penguins in a lineup beneath a sign reading ‘Anonymized.’ Its neck, spots and four legs remain obvious.",
+    "note": "When someone says the data is anonymized, I want to understand how they got there and what can still be connected. In privacy assessments, I’ve seen a replacement identifier treated as if the person has disappeared. The giraffe’s penguin costume is that shortcut. A different label doesn’t necessarily hide the identifying clues—and transforming personal information also means handling it along the way.",
+    "image": "/guides/comic-panels/images/CP-02-01-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-02-01-ben-tan.webp"
+  },
+  {
+    "id": "CP-02-04",
+    "title": "We’ve updated our privacy policy",
+    "alt": "In a restroom full of empty urinals, one man crowds another and whispers, ‘Psst… we’ve updated our privacy policy.’",
+    "note": "This one is a joke at my own industry’s expense. I appreciate companies being transparent, but “we’ve updated our privacy policy” is not much help if the message never tells me what changed. The man at the next urinal captures how those announcements can feel: an awkward interruption, delivered with very little useful context.",
+    "image": "/guides/comic-panels/images/CP-02-04-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-02-04-ben-tan.webp"
+  },
+  {
+    "id": "CP-02-05",
+    "title": "Opt out",
+    "alt": "A button labeled ‘Opt out’ runs away on sneaker-clad legs while an exhausted hand-shaped cursor chases it.",
+    "note": "This is about choices that are easy to offer and difficult to exercise. Opting out, canceling a subscription or deleting an account can mean working through extra screens and offers to stay. The cursor has found the button and still can’t reach it. That is the joke: the interface keeps moving the finish line.",
+    "image": "/guides/comic-panels/images/CP-02-05-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-02-05-ben-tan.webp"
+  },
+  {
+    "id": "CP-02-10",
+    "title": "Here’s how I decided",
+    "alt": "A smiling robot says ‘Here’s how I decided’ and opens a panel in its chest, revealing a tiny robot throwing a dart at a wheel.",
+    "note": "I can give AI a question or a problem, then ask it to explain its answer. But an explanation is not the same as being able to look inside and see how the decision happened. The tiny robot with a dart is my joke about that gap. I know AI is not literally throwing darts—that is the exaggeration.",
+    "image": "/guides/comic-panels/images/CP-02-10-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-02-10-ben-tan.webp"
+  },
+  {
+    "id": "CP-02-20",
+    "title": "Private browsing",
+    "alt": "A snail hides behind a folding screen labeled ‘Private browsing’ while a long, winding slime trail remains visible behind it.",
+    "note": "The snail feels hidden behind its screen, but its trail is still out in the open. I’m poking fun at how easily “private browsing” can sound like a promise that nobody can observe what we do. The image is about the traces we may overlook when a reassuring label makes us feel covered.",
+    "image": "/guides/comic-panels/images/CP-02-20-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-02-20-ben-tan.webp"
+  },
+  {
+    "id": "CP-02-21",
+    "title": "We don’t train on your data",
+    "alt": "A robot bench-presses a barbell weighted with bundles of personal records beneath a banner reading ‘We don’t train on your data.’",
+    "note": "This one is a play on the word “training.” The robot promises it does not train on your data while lifting weights made of personal records. I liked turning familiar AI language into a literal workout. The joke is the double meaning.",
+    "image": "/guides/comic-panels/images/CP-02-21-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-02-21-ben-tan.webp"
+  },
+  {
+    "id": "CP-03-01",
+    "title": "Choose freely",
+    "alt": "A fox considers two doors under the words ‘Choose freely.’ One door reads ‘Yes’ and the other reads ‘Also yes.’",
+    "note": "The fox is told to choose freely, but both doors lead to the same answer. That is the illusion of choice: the wording changes while the outcome stays fixed. I wanted the missing option to be obvious.",
+    "image": "/guides/comic-panels/images/CP-03-01-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-03-01-ben-tan.webp"
+  },
+  {
+    "id": "CP-03-03",
+    "title": "Which one turns it off?",
+    "alt": "A fox faces a huge panel of unlabeled switches and knobs titled ‘Privacy settings’ and asks, ‘Which one turns it off?’ A duck replies, ‘Yes.’",
+    "note": "A wall of privacy switches can leave me less certain about what to do. I want a few clear choices up front, with detailed controls underneath for anyone who wants them. The fox is asking a simple question and getting no usable answer. More settings only help when people can understand and use them.",
+    "image": "/guides/comic-panels/images/CP-03-03-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-03-03-ben-tan.webp"
+  },
+  {
+    "id": "CP-03-13",
+    "title": "Create an account to boil",
+    "alt": "A tired fox waits beside an empty mug while an electric kettle displays a login form and the message ‘Create an account to boil.’",
+    "note": "Even the simplest task seems to need an account now. The kettle takes that feeling to an absurd place: I just want to boil water. What bothers me is the gap between the service I think I’m signing up for and the other uses my information may end up serving. A small convenience can come with a much less obvious exchange.",
+    "image": "/guides/comic-panels/images/CP-03-13-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-03-13-ben-tan.webp"
+  },
+  {
+    "id": "CP-03-18",
+    "title": "Idle: 12 seconds",
+    "alt": "A hamster pauses in its wheel to drink water. An attached monitoring device flashes ‘Idle: 12 seconds.’",
+    "note": "The hamster stops for water, but the monitor only sees idle time. That is what bothers me about treating computer activity as a measure of work. Thinking or researching away from a laptop can look like doing nothing, while ordinary breaks become patterns someone can scrutinize. I’m questioning the pressure to account for every minute, and how intrusive that can feel.",
+    "image": "/guides/comic-panels/images/CP-03-18-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-03-18-ben-tan.webp"
+  },
+  {
+    "id": "CP-03-27",
+    "title": "Look at all my sources and citations",
+    "alt": "A delighted robot stands with arms spread in a flower-filled mountain meadow beneath the words ‘Look at all my sources and citations.’",
+    "note": "This mixes a Sound of Music moment with the joke of proudly showing off something that isn’t there. Here, the missing things are the AI’s sources and citations. It is more about AI governance than privacy, although it connects to my own privacy work: an answer about a law or a case can sound convincing and still be invented.",
+    "image": "/guides/comic-panels/images/CP-03-27-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-03-27-ben-tan.webp"
+  },
+  {
+    "id": "CP-03-33",
+    "title": "I made a profile",
+    "alt": "A robot vacuum announces ‘I made a profile.’ Its evidence board links a person’s silhouette to lint, a sock, a receipt and strands of hair.",
+    "note": "A robot vacuum is easy to overlook when we think about smart-home privacy. Here, the lint, receipt, stray hair and missing sock become clues on an evidence board. I’m exaggerating how much an ordinary appliance might learn from being in our homes. I asked it to clean the floor, and it came back with a profile.",
+    "image": "/guides/comic-panels/images/CP-03-33-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-03-33-ben-tan.webp"
+  },
+  {
+    "id": "CP-05-04",
+    "title": "It was one taco",
+    "alt": "A smart toilet tells an embarrassed fox, ‘I’ve notified your doctor.’ The fox replies, ‘It was one taco.’",
+    "note": "This grew out of a story I heard about an AI assistant connected to someone’s home, health information and car. What stayed with me was how quickly “helpful” could become taking charge. The toilet pushes that into an absurdly personal setting: one taco becomes a medical escalation, and the fox only finds out after the doctor has been notified.",
+    "image": "/guides/comic-panels/images/CP-05-04-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-05-04-ben-tan.webp"
+  },
+  {
+    "id": "CP-05-06",
+    "title": "Still watching",
+    "alt": "A television asks a couch, ‘Are you still watching?’ The couch replies, ‘Nope. Are you?’ The television answers, ‘Yep.’",
+    "note": "I like having a show on in the background, so Netflix’s “Are you still watching?” prompt tends to get a “Why do you care?” from me. The comic turns that question around: while I’m watching TV, what is the service learning about me? The TV’s cheerful “Yep” is the uneasy part of the joke.",
+    "image": "/guides/comic-panels/images/CP-05-06-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-05-06-ben-tan.webp"
+  },
+  {
+    "id": "CP-06-02",
+    "title": "Manual assistance",
+    "alt": "A smiling facial-recognition gate tells a fox, ‘Yes, you may opt out,’ pointing toward an extremely long, winding queue.",
+    "note": "The gate politely says I can opt out, then points me toward a queue that seems to go on forever. The choice technically exists, but the inconvenience pushes me toward giving in. I’m poking fun at treating an opt-out as a box to tick while making it frustrating to use.",
+    "image": "/guides/comic-panels/images/CP-06-02-ben-tan.png",
+    "display": "/guides/comic-panels/images/CP-06-02-ben-tan.webp"
+  }
+]

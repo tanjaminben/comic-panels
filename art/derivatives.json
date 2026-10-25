@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CP-01-01",
+    "filename": "CP-01-01-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-01-01-ben-tan.webp",
+    "bytes": 2893920,
+    "sha256": "c160bab5d0e0d38cd42b8e7b1c82aed842fa151429be15302ce41374bb1192fe",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-01-02",
+    "filename": "CP-01-02-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-01-02-ben-tan.webp",
+    "bytes": 2806088,
+    "sha256": "739aa455073a11082f9bdf0cd3d096a073b37bb056ffec634cd1cbcc7b13e1bd",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-01-06",
+    "filename": "CP-01-06-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-01-06-ben-tan.webp",
+    "bytes": 2915272,
+    "sha256": "25697e33cf5630f4d24db0cdb75272403ee87bfb2c92f33b1d5104e380ea93d1",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-02-01",
+    "filename": "CP-02-01-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-02-01-ben-tan.webp",
+    "bytes": 2161338,
+    "sha256": "b7eefd1cd560f8adce0015e2cd1760ef9fe01bf82d451c1a6cfa49e261b612d6",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-02-04",
+    "filename": "CP-02-04-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-02-04-ben-tan.webp",
+    "bytes": 2394104,
+    "sha256": "67bfcb7e060d25f2fd3838d1c34992d67eb5c4c9b3c32b5500be1179034a6fc7",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-02-05",
+    "filename": "CP-02-05-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-02-05-ben-tan.webp",
+    "bytes": 1902370,
+    "sha256": "35ece686c3040dc402bbc90cf72ec30208b45ec3b6653df8cf77733b4bc38169",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-02-10",
+    "filename": "CP-02-10-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-02-10-ben-tan.webp",
+    "bytes": 2320484,
+    "sha256": "e695390f1a692fe5a25cce86bac619f1f98c257723fabf8e30b2b03f9fd28bec",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-02-20",
+    "filename": "CP-02-20-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-02-20-ben-tan.webp",
+    "bytes": 2383248,
+    "sha256": "43ee532e42762a96a446b8a88e9f673fed20311b8c5a9833eb87952c872b27b4",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-02-21",
+    "filename": "CP-02-21-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-02-21-ben-tan.webp",
+    "bytes": 2841430,
+    "sha256": "7f7e57b96d2e3edf6d771c27baf0d915065f6551ab7aadb3ae9a16f5357bf12e",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-03-01",
+    "filename": "CP-03-01-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-03-01-ben-tan.webp",
+    "bytes": 653804,
+    "sha256": "3bff286dc3a22b28a4655c51bf7314a3d797b803d54bb1ebfebe6a89bda3c930",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-03-03",
+    "filename": "CP-03-03-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-03-03-ben-tan.webp",
+    "bytes": 636674,
+    "sha256": "d69df51ec6806ce5e3cb954f3ccc9fe85de0c3b83e17a653c0f315605787e30d",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-03-13",
+    "filename": "CP-03-13-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-03-13-ben-tan.webp",
+    "bytes": 819038,
+    "sha256": "8d0cec45269b3b14c543d0fce59d445f9adf0afd44622f1a29711d7218f1678e",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-03-18",
+    "filename": "CP-03-18-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-03-18-ben-tan.webp",
+    "bytes": 706176,
+    "sha256": "783a375616cdaf388b0b2c88af66b67443b3b53895ac5d6cfb5a918509999f17",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-03-27",
+    "filename": "CP-03-27-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-03-27-ben-tan.webp",
+    "bytes": 1540098,
+    "sha256": "c229cfcb9cad49af6b7577e9830d9357259ecc06fb50e69f8e9cec7fd3ba4f92",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-03-33",
+    "filename": "CP-03-33-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-03-33-ben-tan.webp",
+    "bytes": 1276666,
+    "sha256": "e1a78af059744de9b353f4c85d16f6ad9257405fb317c6936a532cfd7e0a39bb",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-05-04",
+    "filename": "CP-05-04-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-05-04-ben-tan.webp",
+    "bytes": 579720,
+    "sha256": "f3691be023bf8bfb8add0f8c0da398cebbaf3a5530c740792f422a799f2d0221",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-05-06",
+    "filename": "CP-05-06-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-05-06-ben-tan.webp",
+    "bytes": 726400,
+    "sha256": "245612fc34ff2a9ae50c2083532bb99a293df8c6e70b1a53da1f39c26c54ee27",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  },
+  {
+    "id": "CP-06-02",
+    "filename": "CP-06-02-ben-tan.webp",
+    "url": "/guides/comic-panels/images/CP-06-02-ben-tan.webp",
+    "bytes": 575288,
+    "sha256": "5850adb2f5208bcaa36ff3ec4bb7a16a9b72ccd8bbc32f76c7ebd0f582049f5c",
+    "width": 2000,
+    "height": 1500,
+    "lossless": true
+  }
+]

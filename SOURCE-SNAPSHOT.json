@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "public-source-snapshot",
+  "project": "comic-panels",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 65,
+      "sha256": "a4c09af0d9fc5bc4e0a4796001a6142ffec4f71ed6295ab8c7f65f520edebfb8"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 67,
+      "sha256": "158841680499b25d24ec6f083092a33d279df398fdee5a799ecf430586474258"
+    },
+    {
+      "path": "art/derivatives.json",
+      "bytes": 5578,
+      "sha256": "c07cfa66ca2008426826d66f18e76ee1214d2820b47c9eca758a4a14219b12a5"
+    },
+    {
+      "path": "art/manifest.json",
+      "bytes": 6084,
+      "sha256": "700072f9b7307852c98527d89534afab39251e5f111a37eb1e322c121fb0aca1"
+    },
+    {
+      "path": "docs/images/banner.png",
+      "bytes": 1815098,
+      "sha256": "ef4d7e0c47b82543c0a4ce57f4bc3362ce8dd8acbed1deca5aefd0d6760372f2"
+    },
+    {
+      "path": "docs/images/buttons/comic-panels.svg",
+      "bytes": 7303,
+      "sha256": "402814e356b07728c59f2e375d6ea973e80f13562b3731b77e700f96dc22c5b8"
+    },
+    {
+      "path": "docs/images/buttons/kofi-static.svg",
+      "bytes": 10065,
+      "sha256": "4181360ad81a84d3cf4559c928f93edf3b12f1a45b2b600ebea002fecf0e5863"
+    },
+    {
+      "path": "docs/images/buttons/kofi.svg",
+      "bytes": 10347,
+      "sha256": "508496ae7e231eede97f9d55184b3cda4510402be6bc1466efbd3f4e07a1ea7f"
+    },
+    {
+      "path": "docs/images/buttons/LICENSE-Barlow.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "package.json",
+      "bytes": 331,
+      "sha256": "06844491b8a46eab4694c912c7eaceffb56f7fe316f90371e79f7dfa07651a9e"
+    },
+    {
+      "path": "provenance/source-manifest.json",
+      "bytes": 800,
+      "sha256": "47179a709cd60b8a1eb8f598fb165dcd68c24e3a0ce78be23cea32c7392ea7e2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2762,
+      "sha256": "8cd205208cf665e18e441ec7293d05efe2459d49080786f925d45bfc49aed691"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 1296,
+      "sha256": "357fd0345cb0893c940c306d04cc0c6b56ec21222f7080fb270ce9f5e460dec6"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 5816,
+      "sha256": "ff69149649cf75b8147156e705a75b6a7b0f6185e6ac6de30a2cf847043278e3"
+    },
+    {
+      "path": "scripts/preview.mjs",
+      "bytes": 1364,
+      "sha256": "26662c58b47baeccfbf669816c1469414d2cf0a9e0011ec51dfba999102f722b"
+    },
+    {
+      "path": "scripts/verify-snapshot.mjs",
+      "bytes": 2796,
+      "sha256": "949e056dc7828346e2ecae3848859b017ba594d5ed216cf8dd0de2cb38d68660"
+    },
+    {
+      "path": "scripts/verify-source.mjs",
+      "bytes": 1643,
+      "sha256": "4ae5bd2ba02de65ec3eb005d4880e0289fb46a6a9a7905503303eda7323d6479"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 431,
+      "sha256": "18fd718410dcbd5b26aa36254db77033d784671caeebbca9740b50bbe7604d6c"
+    },
+    {
+      "path": "SOURCE-SNAPSHOT.md",
+      "bytes": 858,
+      "sha256": "6abe3a526b9c66824f50899cec94c86d362a94be608f2de3494b232032cc45a0"
+    },
+    {
+      "path": "src/comic-panels.css",
+      "bytes": 7567,
+      "sha256": "089094f4ca3959cbd3c33422a974baf645595ccc4588f04ab30955beadf1f032"
+    },
+    {
+      "path": "src/comic-panels.js",
+      "bytes": 7840,
+      "sha256": "798cc83cfc570c35df7aa2ec9cf762bbc104cf82a08c282ff59c32203aec2046"
+    },
+    {
+      "path": "src/comics.json",
+      "bytes": 12408,
+      "sha256": "b50d104256719f4e44e012d1edd4d7856127afefd9e3cda5e115bf7f96730289"
+    },
+    {
+      "path": "src/main.html",
+      "bytes": 3126,
+      "sha256": "c2b2da1f9fcd5608c40de950062a2a5ea82925a57408352e7a8a10a2b13c4932"
+    },
+    {
+      "path": "src/reader.html",
+      "bytes": 1534,
+      "sha256": "4cf95199b09c034f4fb6dcb94a97d240c625d6f5ef127c87b8d33fc51e3268d7"
+    },
+    {
+      "path": "tests/fixtures/reader-before-image-fix.js",
+      "bytes": 4449,
+      "sha256": "6fe2da9a9ccd08fd3c5296a9fc212bfb9f6378fe21828d3d5ee7bb30cb88413b"
+    },
+    {
+      "path": "tests/image-lifecycle.test.mjs",
+      "bytes": 7811,
+      "sha256": "774e35b243b952682b8f49c8e91eb3548c69ac25ecda81a8ab35f33969545de0"
+    }
+  ],
+  "generatedPaths": []
+}

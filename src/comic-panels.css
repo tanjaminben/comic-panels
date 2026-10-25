@@ -1,0 +1,77 @@
+/* Shared portfolio styles are imported by the page. These rules retain the reviewed collection layout and reader. */
+.comic-panels-page #site-nav summary[aria-current="page"]{text-decoration:underline;text-decoration-color:var(--action);text-underline-offset:6px}
+.comic-panels-page .eyebrow{font:500 13px/1.5 'IBM Plex Mono',monospace;letter-spacing:.05em;margin:0 0 10px}
+main.comic-main{display:block;padding-block-end:32px;min-height:0}
+.comic-panels-page h2{font:900 27px/1.18 Barlow,sans-serif;margin:0 0 12px}
+.comic-panels-page h3{font:700 22px/1.2 Barlow,sans-serif;margin:0}
+.collection-icon{display:grid;place-items:center;background:var(--bt-icon-comics);width:72px;height:72px;border-radius:10px;flex:none}
+#copy-url{font:400 17px/1.4 Barlow,sans-serif;color:var(--ink);background:var(--sheet);border:1px solid var(--border);border-radius:6px;padding:11px 12px;min-width:0;max-width:100%}
+.comic-panels-page :where(#comic-reader) button{font:700 var(--button-label-min)/1.2 Barlow,sans-serif;border:1px solid var(--border);border-radius:var(--button-radius);background:var(--sheet);color:var(--ink);padding:10px 20px;min-height:var(--button-min-height);cursor:pointer}
+.comic-panels-page :where(#comic-reader) button:hover{background:#ede5d4}
+.comic-panels-page :where(#comic-reader) button:disabled{opacity:.45;cursor:default}
+.comic-main :focus-visible,#comic-reader :focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+#comic-reader{background:var(--paper);color:var(--ink);border:1px solid var(--border);border-radius:10px;padding:0;max-width:none;max-height:none;box-shadow:0 18px 80px #15252b44}
+#comic-reader::backdrop{background:#15252bc4}
+.comic-panels-page:has(#comic-reader[open]){overflow:hidden}
+@media(prefers-reduced-motion:reduce){.comic-panels-page *{scroll-behavior:auto!important;transition:none!important}}
+/* Page composition follows BT-P03/P07/P08 and the current portfolio shell.
+   Artwork stays complete; the reader supplies the larger reading view. */
+
+
+
+
+.comic-panels-page main.comic-main{padding-block-end:48px}
+.collection-opening{display:flex;justify-content:space-between;gap:24px;align-items:center;margin:0 0 28px}
+.collection-opening .page-identity{flex:1}
+.collection-story a{font-size:16px;font-weight:600;text-underline-offset:4px}
+.gallery-heading{border-top:1px solid var(--border);padding:16px 0;display:flex;justify-content:space-between;gap:16px;align-items:baseline}
+.comic-panels-page .gallery-heading h2{font-size:20px;margin:0}
+.gallery-heading p{font-size:15px;color:#52605b;margin:0}
+.finalist-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px 24px}
+.collection-pagination{display:flex;justify-content:center;gap:16px;margin-top:28px}
+.comic-panels-page .collection-pagination button{display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;padding:0;border:1px solid var(--border);border-radius:var(--button-radius);background:var(--sheet);color:var(--ink);cursor:pointer}
+.comic-panels-page .collection-pagination button:hover{background:#ede5d4}
+.collection-pagination[hidden],.collection-pagination button[hidden],.finalist-item[hidden]{display:none}
+.pagination-status{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+#gallery-heading{scroll-margin-top:24px}
+.finalist-item{margin:0;min-width:0}
+.finalist-link{display:block;color:inherit;text-decoration:none}
+.finalist-link img{width:100%;height:auto;display:block;aspect-ratio:4/3;object-fit:contain;box-shadow:0 1px 4px #15252b17}
+.finalist-caption{padding:10px 0 0;text-align:center}
+.comic-panels-page .finalist-caption h3{font-size:17px;font-weight:600;line-height:1.3;text-wrap:pretty}
+.collection-story{border-top:1px solid var(--border);margin:42px 0 0;padding-top:32px;scroll-margin-top:24px}
+.collection-story-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px;align-items:start}
+.collection-story .eyebrow{font-size:12px}
+.comic-panels-page .collection-story h2{font-size:32px;line-height:1.2;margin:0 0 22px}
+.collection-story p{font-size:19px;line-height:1.65;margin:0 0 18px}
+@media(max-width:800px){.collection-story-columns{grid-template-columns:1fr;gap:0}}
+#comic-reader{width:min(1720px,calc(100vw - 48px));height:min(980px,calc(100dvh - 48px));overflow:auto}
+#comic-reader[open]{display:flex;flex-direction:column}
+#reader-close{position:absolute;top:12px;right:12px;z-index:1}
+.reader-navigation{display:flex;align-items:center;justify-content:center;gap:16px;flex:none}
+.comic-panels-page #reader-close,.comic-panels-page .reader-navigation button{display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;min-height:48px;padding:0;border-radius:8px}
+#reader-position{min-width:72px;text-align:center;font:500 14px 'IBM Plex Mono',monospace;color:#52605b}
+.reader-content{display:grid;grid-template-columns:minmax(0,1fr) 420px;flex:1;min-height:0}
+.reader-art{display:flex;flex-direction:column;gap:12px;min-height:0;min-width:0;padding:24px;background:var(--sheet)}
+.reader-picture{min-height:0;flex:1}
+#reader-image{display:block;width:100%;height:100%;object-fit:contain;max-width:none;margin:0}
+.reader-note{align-self:center;min-width:0;padding:28px;border-left:1px solid var(--border)}
+.reader-note h2{font-size:30px;line-height:1.15;margin:0 0 20px}
+#reader-context{font-size:19px;line-height:1.55;margin:0 0 24px}
+#reader-context.pending{font-size:16px;color:#617069;font-style:italic}
+.reader-actions{display:flex;gap:10px;flex-wrap:wrap}
+.download-link{display:inline-flex;justify-content:center;align-items:center;box-sizing:border-box;border:1px solid var(--action);background:var(--action);color:var(--sheet);text-decoration:none}
+.comic-panels-page .reader-actions button,.comic-panels-page .download-link{min-height:var(--button-min-height);padding:10px 20px;border-radius:var(--button-radius);font:700 var(--button-label-min)/1.2 Barlow,sans-serif}
+.comic-panels-page .download-link:hover{background:var(--ink);border-color:var(--ink)}
+#reader-message{font-size:14px;line-height:1.4;margin:12px 0 0}
+#reader-message:empty{margin:0}
+#copy-fallback{font-size:14px;margin-top:10px}
+#copy-fallback:not([hidden]){display:grid;gap:6px}
+#copy-url{width:100%}
+@media(min-width:801px) and (max-width:1500px){.reader-content{grid-template-columns:minmax(0,1fr) 380px}.reader-note{padding:24px}.reader-note h2{font-size:28px}#reader-context{font-size:18px;line-height:1.5}.reader-art{padding:20px}}
+@media(max-width:1023px){.finalist-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:1000px){.collection-opening{display:block}}
+@media(max-width:800px){#comic-reader{width:100vw;height:100dvh;max-width:100vw;max-height:100dvh;margin:0;border:0;border-radius:0;overflow:hidden}.reader-content{display:block;overflow:auto;padding-top:60px}.reader-art{padding:16px}.reader-picture{flex:none}#reader-image{height:auto;aspect-ratio:4/3}.reader-note{border-left:0;border-top:1px solid var(--border);padding:24px}.reader-note h2{font-size:28px;margin-bottom:18px}#reader-context{font-size:18px;line-height:1.5}}
+@media(max-width:700px){.gallery-heading{display:block}.gallery-heading p{margin-top:6px;line-height:1.4}.collection-story{margin-top:32px;padding-top:24px}.comic-panels-page .collection-story h2{font-size:28px}.collection-story p{font-size:18px;line-height:1.6}}
+@media(max-width:639px){.finalist-grid{grid-template-columns:1fr;gap:24px}}
+@media(max-width:380px){.reader-actions{flex-direction:column}}

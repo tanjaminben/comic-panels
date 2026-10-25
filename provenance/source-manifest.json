@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "path": "src/main.html",
+      "bytes": 3126,
+      "sha256": "c2b2da1f9fcd5608c40de950062a2a5ea82925a57408352e7a8a10a2b13c4932"
+    },
+    {
+      "path": "src/reader.html",
+      "bytes": 1534,
+      "sha256": "4cf95199b09c034f4fb6dcb94a97d240c625d6f5ef127c87b8d33fc51e3268d7"
+    },
+    {
+      "path": "src/comic-panels.css",
+      "bytes": 7567,
+      "sha256": "089094f4ca3959cbd3c33422a974baf645595ccc4588f04ab30955beadf1f032"
+    },
+    {
+      "path": "src/comic-panels.js",
+      "bytes": 7840,
+      "sha256": "798cc83cfc570c35df7aa2ec9cf762bbc104cf82a08c282ff59c32203aec2046"
+    },
+    {
+      "path": "src/comics.json",
+      "bytes": 12408,
+      "sha256": "b50d104256719f4e44e012d1edd4d7856127afefd9e3cda5e115bf7f96730289"
+    }
+  ]
+}

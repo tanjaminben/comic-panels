@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "kind": "external-runtime-asset-requirements",
+  "assets": [
+    {
+      "id": "CP-01-01",
+      "title": "Private by default",
+      "url": "/guides/comic-panels/images/CP-01-01-ben-tan.png",
+      "filename": "CP-01-01-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 5279143,
+      "sha256": "054b6a82723bddd250d081a5be05a739f631bda3f50f7d849704d92a619659cf"
+    },
+    {
+      "id": "CP-01-02",
+      "title": "No data leaves the environment",
+      "url": "/guides/comic-panels/images/CP-01-02-ben-tan.png",
+      "filename": "CP-01-02-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 5274730,
+      "sha256": "7d40618bb589e33be42d10b670f84fb2fe067108074bfd47d78f582832f7d9c8"
+    },
+    {
+      "id": "CP-01-06",
+      "title": "Data minimization",
+      "url": "/guides/comic-panels/images/CP-01-06-ben-tan.png",
+      "filename": "CP-01-06-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 5354472,
+      "sha256": "579a12aed777cf3fefe31d8b8fcea7c468b8614790a02b02f0528aa80fa2ea60"
+    },
+    {
+      "id": "CP-02-01",
+      "title": "Anonymized",
+      "url": "/guides/comic-panels/images/CP-02-01-ben-tan.png",
+      "filename": "CP-02-01-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 3950521,
+      "sha256": "7749ba92268d3129781f2464940de4265cd46a602886086cb0a7a7a187bf4c21"
+    },
+    {
+      "id": "CP-02-04",
+      "title": "We’ve updated our privacy policy",
+      "url": "/guides/comic-panels/images/CP-02-04-ben-tan.png",
+      "filename": "CP-02-04-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 4294407,
+      "sha256": "0b46f659112c02c04d3d2b11b0e9357a6aad11036283ae7a9bfaed4ea8c77d25"
+    },
+    {
+      "id": "CP-02-05",
+      "title": "Opt out",
+      "url": "/guides/comic-panels/images/CP-02-05-ben-tan.png",
+      "filename": "CP-02-05-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 3182584,
+      "sha256": "c9124cab14d2b9850b1bcc57b38e6435d67b64f72693bdcc1cf637d99a1239ab"
+    },
+    {
+      "id": "CP-02-10",
+      "title": "Here’s how I decided",
+      "url": "/guides/comic-panels/images/CP-02-10-ben-tan.png",
+      "filename": "CP-02-10-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 4144380,
+      "sha256": "1d18951e0d4df7c7b54e5ca62cc738ccc6dcb882d0a9d2f4d6111cdbd38678b4"
+    },
+    {
+      "id": "CP-02-20",
+      "title": "Private browsing",
+      "url": "/guides/comic-panels/images/CP-02-20-ben-tan.png",
+      "filename": "CP-02-20-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 4196215,
+      "sha256": "ed7bbede9c0f97ede889357036c4ffe9c9c32fb3ff9de363cc6eec26dfa2e8a3"
+    },
+    {
+      "id": "CP-02-21",
+      "title": "We don’t train on your data",
+      "url": "/guides/comic-panels/images/CP-02-21-ben-tan.png",
+      "filename": "CP-02-21-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 5248734,
+      "sha256": "89a1de14219f1e8dc3567845995f312c0f4a9e3b70969b57d4825dd2d336dd7b"
+    },
+    {
+      "id": "CP-03-01",
+      "title": "Choose freely",
+      "url": "/guides/comic-panels/images/CP-03-01-ben-tan.png",
+      "filename": "CP-03-01-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1419942,
+      "sha256": "5fd7619c1a902fdbeed6c601235e44a693f52776ae1c2a67b2500129e6422f7e"
+    },
+    {
+      "id": "CP-03-03",
+      "title": "Which one turns it off?",
+      "url": "/guides/comic-panels/images/CP-03-03-ben-tan.png",
+      "filename": "CP-03-03-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1305094,
+      "sha256": "10f0746fcd9563aedb69cb7abf3f22ea40119a4ec59b3c5555015c607b9c66ea"
+    },
+    {
+      "id": "CP-03-13",
+      "title": "Create an account to boil",
+      "url": "/guides/comic-panels/images/CP-03-13-ben-tan.png",
+      "filename": "CP-03-13-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1652722,
+      "sha256": "11dfa7e2cc19c6f142c4dd4b259b0b6aba2396f792cd012576460fa55bd29f01"
+    },
+    {
+      "id": "CP-03-18",
+      "title": "Idle: 12 seconds",
+      "url": "/guides/comic-panels/images/CP-03-18-ben-tan.png",
+      "filename": "CP-03-18-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1424348,
+      "sha256": "09d93fdd2c79a00f01384eaaaafa5e887da91cbf89cc7562123688f053cb0301"
+    },
+    {
+      "id": "CP-03-27",
+      "title": "Look at all my sources and citations",
+      "url": "/guides/comic-panels/images/CP-03-27-ben-tan.png",
+      "filename": "CP-03-27-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 2712600,
+      "sha256": "b19240750f0dc28a6099cb26f84cc4519eb4b6644a7c1f3eb3aebe416152307a"
+    },
+    {
+      "id": "CP-03-33",
+      "title": "I made a profile",
+      "url": "/guides/comic-panels/images/CP-03-33-ben-tan.png",
+      "filename": "CP-03-33-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 2378441,
+      "sha256": "dff7339866ca31185b81011a1ff7f2730a4694bda367f36d0f61b4e701e7ae06"
+    },
+    {
+      "id": "CP-05-04",
+      "title": "It was one taco",
+      "url": "/guides/comic-panels/images/CP-05-04-ben-tan.png",
+      "filename": "CP-05-04-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1199450,
+      "sha256": "63b56cfea119123f475a4e40a528bdba3b4e19fe7ba9011782f2949dc7130fa8"
+    },
+    {
+      "id": "CP-05-06",
+      "title": "Still watching",
+      "url": "/guides/comic-panels/images/CP-05-06-ben-tan.png",
+      "filename": "CP-05-06-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1408261,
+      "sha256": "6d6c4c91f405b4eb9f9d4cb2f04e4c79d8b48f9ca67e34960f681eba4132bad7"
+    },
+    {
+      "id": "CP-06-02",
+      "title": "Manual assistance",
+      "url": "/guides/comic-panels/images/CP-06-02-ben-tan.png",
+      "filename": "CP-06-02-ben-tan.png",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1216520,
+      "sha256": "990417fc01370c6b500eaba476f98d427e6e9e50d5f7b5e84187bbd9ad6cae96"
+    }
+  ]
+}
