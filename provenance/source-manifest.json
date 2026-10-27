@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "src/main.html",
-      "bytes": 3126,
-      "sha256": "c2b2da1f9fcd5608c40de950062a2a5ea82925a57408352e7a8a10a2b13c4932"
+      "bytes": 3127,
+      "sha256": "f919f9bdca87903b1d8de87d82924d6cc900f7eb4221066e3d35d623a2bd89ee"
     },
     {
       "path": "src/reader.html",
@@ -26,5 +26,11 @@
       "bytes": 12408,
       "sha256": "b50d104256719f4e44e012d1edd4d7856127afefd9e3cda5e115bf7f96730289"
     }
-  ]
+  ],
+  "localChanges": {
+    "reviewId": "ben-tan-prose-20261026-33459e7e",
+    "committed": false,
+    "path": "src/main.html",
+    "baseSha256": "c2b2da1f9fcd5608c40de950062a2a5ea82925a57408352e7a8a10a2b13c4932"
+  }
 }
