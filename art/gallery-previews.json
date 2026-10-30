@@ -1,0 +1,329 @@
+{
+  "status": "local review candidate; original masters and readers unchanged",
+  "images": [
+    {
+      "file": "CP-01-01-ben-tan-480.webp",
+      "sha256": "508f991d01c586fd7ca3d899c04cfc9565994a44dd3112ba7199c805ce1047ee",
+      "bytes": 198082,
+      "sourceFile": "CP-01-01-ben-tan.png",
+      "sourceSha256": "054b6a82723bddd250d081a5be05a739f631bda3f50f7d849704d92a619659cf",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-01-01-ben-tan-960.webp",
+      "sha256": "d6bf4790e0482630d0ca1bbee2fc8695c77624e4ea6e0a5b9f7ada035e6c52cd",
+      "bytes": 781992,
+      "sourceFile": "CP-01-01-ben-tan.png",
+      "sourceSha256": "054b6a82723bddd250d081a5be05a739f631bda3f50f7d849704d92a619659cf",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-01-02-ben-tan-480.webp",
+      "sha256": "a4cf026eeec77a0a7798366337db73d9aa611097b4b037f25dbda1dc61397cb6",
+      "bytes": 193948,
+      "sourceFile": "CP-01-02-ben-tan.png",
+      "sourceSha256": "7d40618bb589e33be42d10b670f84fb2fe067108074bfd47d78f582832f7d9c8",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-01-02-ben-tan-960.webp",
+      "sha256": "f48d5ae1002a9c80540e8cd57fe2147e7184a0b63bfb1704ee7ddaa16c535ff0",
+      "bytes": 766176,
+      "sourceFile": "CP-01-02-ben-tan.png",
+      "sourceSha256": "7d40618bb589e33be42d10b670f84fb2fe067108074bfd47d78f582832f7d9c8",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-01-06-ben-tan-480.webp",
+      "sha256": "09af3d0c0c69c581a709c492b5f2da3bc91651f1dc48caf8e7ebc87662b85b68",
+      "bytes": 188634,
+      "sourceFile": "CP-01-06-ben-tan.png",
+      "sourceSha256": "579a12aed777cf3fefe31d8b8fcea7c468b8614790a02b02f0528aa80fa2ea60",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-01-06-ben-tan-960.webp",
+      "sha256": "cff0f4979112c75981cb71a445d79756089743bb5d3afd1e59888dd78a99a30f",
+      "bytes": 782736,
+      "sourceFile": "CP-01-06-ben-tan.png",
+      "sourceSha256": "579a12aed777cf3fefe31d8b8fcea7c468b8614790a02b02f0528aa80fa2ea60",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-02-01-ben-tan-480.webp",
+      "sha256": "c90553729b3e92ca24ccdcde6a0349713904a3390a16cfa3b73538846ff591cf",
+      "bytes": 159100,
+      "sourceFile": "CP-02-01-ben-tan.png",
+      "sourceSha256": "7749ba92268d3129781f2464940de4265cd46a602886086cb0a7a7a187bf4c21",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-02-01-ben-tan-960.webp",
+      "sha256": "867056c8182086a77b2a88cad9b0c08f5977e31934722292fc2f7be37b7ec6f7",
+      "bytes": 623766,
+      "sourceFile": "CP-02-01-ben-tan.png",
+      "sourceSha256": "7749ba92268d3129781f2464940de4265cd46a602886086cb0a7a7a187bf4c21",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-02-04-ben-tan-480.webp",
+      "sha256": "3ee60256caade42286e6d6c6b76eb18cc9f6f34684a63a76ae806761411a6b41",
+      "bytes": 158000,
+      "sourceFile": "CP-02-04-ben-tan.png",
+      "sourceSha256": "0b46f659112c02c04d3d2b11b0e9357a6aad11036283ae7a9bfaed4ea8c77d25",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-02-04-ben-tan-960.webp",
+      "sha256": "46142318710b3746f8696695f0ff6253b961d3c8cdae2bd782c518d30d51f685",
+      "bytes": 651924,
+      "sourceFile": "CP-02-04-ben-tan.png",
+      "sourceSha256": "0b46f659112c02c04d3d2b11b0e9357a6aad11036283ae7a9bfaed4ea8c77d25",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-02-05-ben-tan-480.webp",
+      "sha256": "35b8b1ebb71b3fbb9c5daef8cd7aeff12f69fd974d34c7944c0a4eee5f22ca96",
+      "bytes": 131418,
+      "sourceFile": "CP-02-05-ben-tan.png",
+      "sourceSha256": "c9124cab14d2b9850b1bcc57b38e6435d67b64f72693bdcc1cf637d99a1239ab",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-02-05-ben-tan-960.webp",
+      "sha256": "6dd609f26418cabab22e61dd9ecee6bba7dba9ec35c72b43e9e1a2f62c8fa27d",
+      "bytes": 540086,
+      "sourceFile": "CP-02-05-ben-tan.png",
+      "sourceSha256": "c9124cab14d2b9850b1bcc57b38e6435d67b64f72693bdcc1cf637d99a1239ab",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-02-10-ben-tan-480.webp",
+      "sha256": "08f386271c2d827db08c0949986826a8d13fef9d450ac868e5db8afa3c06cdc8",
+      "bytes": 163630,
+      "sourceFile": "CP-02-10-ben-tan.png",
+      "sourceSha256": "1d18951e0d4df7c7b54e5ca62cc738ccc6dcb882d0a9d2f4d6111cdbd38678b4",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-02-10-ben-tan-960.webp",
+      "sha256": "5f6254e10a36477a2271638795bf2a7f1d37f66a6ec91e2138fce4dbb4a0efed",
+      "bytes": 644162,
+      "sourceFile": "CP-02-10-ben-tan.png",
+      "sourceSha256": "1d18951e0d4df7c7b54e5ca62cc738ccc6dcb882d0a9d2f4d6111cdbd38678b4",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-02-20-ben-tan-480.webp",
+      "sha256": "7e73bab68c31be3e516f946c4fac2bec259e23422ef47e87c1fc0de90bd1ce3f",
+      "bytes": 161136,
+      "sourceFile": "CP-02-20-ben-tan.png",
+      "sourceSha256": "ed7bbede9c0f97ede889357036c4ffe9c9c32fb3ff9de363cc6eec26dfa2e8a3",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-02-20-ben-tan-960.webp",
+      "sha256": "87f891ff19bff83862d0fd494c7a1920f80e8ee95697d821cb367cd57ea0a8fb",
+      "bytes": 658328,
+      "sourceFile": "CP-02-20-ben-tan.png",
+      "sourceSha256": "ed7bbede9c0f97ede889357036c4ffe9c9c32fb3ff9de363cc6eec26dfa2e8a3",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-02-21-ben-tan-480.webp",
+      "sha256": "87f7b769ce84d30554624471064ed9cfc9fb304f788b27b38bd23195cc980515",
+      "bytes": 186246,
+      "sourceFile": "CP-02-21-ben-tan.png",
+      "sourceSha256": "89a1de14219f1e8dc3567845995f312c0f4a9e3b70969b57d4825dd2d336dd7b",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-02-21-ben-tan-960.webp",
+      "sha256": "82c9f8f18fdb248e533edbc73e02860881a3e17da4a7d1d96888f9f90e673c1a",
+      "bytes": 766324,
+      "sourceFile": "CP-02-21-ben-tan.png",
+      "sourceSha256": "89a1de14219f1e8dc3567845995f312c0f4a9e3b70969b57d4825dd2d336dd7b",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-03-01-ben-tan-480.webp",
+      "sha256": "95c68fd9847b2b3303fbe0250b425f7621a8e8f68270848299d2398062534b49",
+      "bytes": 73958,
+      "sourceFile": "CP-03-01-ben-tan.png",
+      "sourceSha256": "5fd7619c1a902fdbeed6c601235e44a693f52776ae1c2a67b2500129e6422f7e",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-03-01-ben-tan-960.webp",
+      "sha256": "6284ef9cfb1e7984df00850180cf31a0a0a658c205ba2f224f1199d1cd98af63",
+      "bytes": 216058,
+      "sourceFile": "CP-03-01-ben-tan.png",
+      "sourceSha256": "5fd7619c1a902fdbeed6c601235e44a693f52776ae1c2a67b2500129e6422f7e",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-03-03-ben-tan-480.webp",
+      "sha256": "50f2f177fe96e1e2581da1d48e7cfe131bc4fd8c3e5adb0f49a81ccc6be0a82e",
+      "bytes": 77324,
+      "sourceFile": "CP-03-03-ben-tan.png",
+      "sourceSha256": "10f0746fcd9563aedb69cb7abf3f22ea40119a4ec59b3c5555015c607b9c66ea",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-03-03-ben-tan-960.webp",
+      "sha256": "91b1d5c7905ea04eeedb13020e851bb23f082478647368d0b25b902009f03454",
+      "bytes": 230606,
+      "sourceFile": "CP-03-03-ben-tan.png",
+      "sourceSha256": "10f0746fcd9563aedb69cb7abf3f22ea40119a4ec59b3c5555015c607b9c66ea",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-03-13-ben-tan-480.webp",
+      "sha256": "f89b99df06f974c3ae39b094e5087536be5af80385c8fc5f16b17d9aec19d631",
+      "bytes": 84318,
+      "sourceFile": "CP-03-13-ben-tan.png",
+      "sourceSha256": "11dfa7e2cc19c6f142c4dd4b259b0b6aba2396f792cd012576460fa55bd29f01",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-03-13-ben-tan-960.webp",
+      "sha256": "3c7fcbc104042a1c700e42651028cc434239253b1d7a019bbc6873daeaf73ff4",
+      "bytes": 265838,
+      "sourceFile": "CP-03-13-ben-tan.png",
+      "sourceSha256": "11dfa7e2cc19c6f142c4dd4b259b0b6aba2396f792cd012576460fa55bd29f01",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-03-18-ben-tan-480.webp",
+      "sha256": "5d4b2aa346107c836525d3c3393775146e8cce9c28e9d4af1f82ec45e35c5d12",
+      "bytes": 75970,
+      "sourceFile": "CP-03-18-ben-tan.png",
+      "sourceSha256": "09d93fdd2c79a00f01384eaaaafa5e887da91cbf89cc7562123688f053cb0301",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-03-18-ben-tan-960.webp",
+      "sha256": "8550783462b9acedc4cf8321a6784820394851a817dd105f402b4b1c861e45b5",
+      "bytes": 239660,
+      "sourceFile": "CP-03-18-ben-tan.png",
+      "sourceSha256": "09d93fdd2c79a00f01384eaaaafa5e887da91cbf89cc7562123688f053cb0301",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-03-27-ben-tan-480.webp",
+      "sha256": "beef3738a6f6d7094b27403949612e0d4070d80777471dd59e826a26ae6d22c1",
+      "bytes": 126540,
+      "sourceFile": "CP-03-27-ben-tan.png",
+      "sourceSha256": "b19240750f0dc28a6099cb26f84cc4519eb4b6644a7c1f3eb3aebe416152307a",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-03-27-ben-tan-960.webp",
+      "sha256": "af2d8a71147a119d87fac365c5a0b3214556b978f7064fc4a66a8f7d0f880da4",
+      "bytes": 462574,
+      "sourceFile": "CP-03-27-ben-tan.png",
+      "sourceSha256": "b19240750f0dc28a6099cb26f84cc4519eb4b6644a7c1f3eb3aebe416152307a",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-03-33-ben-tan-480.webp",
+      "sha256": "3056f05baf130320a9a039c3cec7941778a299c31f0f6e5edc77252dc61d955d",
+      "bytes": 114124,
+      "sourceFile": "CP-03-33-ben-tan.png",
+      "sourceSha256": "dff7339866ca31185b81011a1ff7f2730a4694bda367f36d0f61b4e701e7ae06",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-03-33-ben-tan-960.webp",
+      "sha256": "060447e9f489d1a5472e292044bef2657ef83945c351d9841309b672fc928db5",
+      "bytes": 399180,
+      "sourceFile": "CP-03-33-ben-tan.png",
+      "sourceSha256": "dff7339866ca31185b81011a1ff7f2730a4694bda367f36d0f61b4e701e7ae06",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-05-04-ben-tan-480.webp",
+      "sha256": "ad8ff26bc2551291f9b6e66293b48261f822abe058e2e6f60d88834cc57026e3",
+      "bytes": 66506,
+      "sourceFile": "CP-05-04-ben-tan.png",
+      "sourceSha256": "63b56cfea119123f475a4e40a528bdba3b4e19fe7ba9011782f2949dc7130fa8",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-05-04-ben-tan-960.webp",
+      "sha256": "9a95f08efedc97c0f62ceab76a2cb7feebb92fc620b19177f525cea83be9abe5",
+      "bytes": 200860,
+      "sourceFile": "CP-05-04-ben-tan.png",
+      "sourceSha256": "63b56cfea119123f475a4e40a528bdba3b4e19fe7ba9011782f2949dc7130fa8",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-05-06-ben-tan-480.webp",
+      "sha256": "e8e72f56b8a3e1bc6e80adcf921d0c7eed04a1d068c5a9743cee3e683a2fa464",
+      "bytes": 79704,
+      "sourceFile": "CP-05-06-ben-tan.png",
+      "sourceSha256": "6d6c4c91f405b4eb9f9d4cb2f04e4c79d8b48f9ca67e34960f681eba4132bad7",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-05-06-ben-tan-960.webp",
+      "sha256": "01c95ac3b4118d1f4864f6d11f41bdfbe806ace6b417154b3abf637c9e1c3984",
+      "bytes": 251174,
+      "sourceFile": "CP-05-06-ben-tan.png",
+      "sourceSha256": "6d6c4c91f405b4eb9f9d4cb2f04e4c79d8b48f9ca67e34960f681eba4132bad7",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "CP-06-02-ben-tan-480.webp",
+      "sha256": "4d370ef6237f5cb5d2b1d6e4cf6c04041787d52221be422118454dfe1df3f55c",
+      "bytes": 68296,
+      "sourceFile": "CP-06-02-ben-tan.png",
+      "sourceSha256": "990417fc01370c6b500eaba476f98d427e6e9e50d5f7b5e84187bbd9ad6cae96",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "file": "CP-06-02-ben-tan-960.webp",
+      "sha256": "fdc425a7c35885df6562b9bd2d8e20280a1486579386e043b6453824563ff5f7",
+      "bytes": 202096,
+      "sourceFile": "CP-06-02-ben-tan.png",
+      "sourceSha256": "990417fc01370c6b500eaba476f98d427e6e9e50d5f7b5e84187bbd9ad6cae96",
+      "width": 960,
+      "height": 720
+    }
+  ]
+}

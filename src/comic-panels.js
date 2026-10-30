@@ -6,6 +6,8 @@
  let cards=[],anchorIndex=0,pageSize=0,pageStart=0,returnPageSize=0;
  const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const selected=()=>new URLSearchParams(location.hash.slice(1)).get('comic');
+ const previewFor=(url,width)=>url.replace(/\/([^/]+)\.(png|webp)$/, '/previews/$1-'+width+'.webp');
+ const galleryTitle=document.title;
  const collectionPath='/guides/comic-panels/';
  const urlFor=id=>collectionPath+'#comic='+encodeURIComponent(id);
  const galleryUrl=i=>i===0?collectionPath:collectionPath+'#start='+encodeURIComponent(comics[i].id);
@@ -20,7 +22,7 @@
   get('collection-pagination').hidden=comics.length<=pageSize;
   get('gallery-prev').hidden=pageStart===0;
   get('gallery-next').hidden=pageStart+pageSize>=comics.length;
-  get('gallery-position').textContent=`Page ${Math.floor(pageStart/pageSize)+1} of ${Math.ceil(comics.length/pageSize)}. Comics ${pageStart+1} to ${Math.min(pageStart+pageSize,comics.length)} of ${comics.length}.`;
+  get('gallery-position').textContent=`Page ${Math.floor(pageStart/pageSize)+1} of ${Math.ceil(comics.length/pageSize)}`;
  }
  function turnPage(delta){
   const next=pageStart+delta*pageSize;
@@ -50,7 +52,7 @@
   document.querySelector('.reader-content').scrollTop=0;document.querySelector('.reader-note').scrollTop=0;
  }
  function closeView(){
-  if(!dialog.open)return;dialog.close();index=-1;document.title='Comic Panels';
+  if(!dialog.open)return;dialog.close();index=-1;document.title=galleryTitle;
   const focus=returnFocus,focusIndex=indexFor(focus?.dataset?.comic);
   if(focusIndex>=0){renderGallery(focusIndex);history.replaceState(history.state,'',galleryUrl(focusIndex));}
   requestAnimationFrame(()=>{if(returnPageSize!==pageSize)focus?.scrollIntoView({block:'nearest'});else window.scrollTo(0,returnY);focus?.focus({preventScroll:true});});
@@ -99,7 +101,7 @@
  });
  try{
   const response=await fetch('/guides/comic-panels/comics.json');if(!response.ok)throw Error('Could not load');comics=await response.json();
-  grid.innerHTML=comics.map((c,i)=>`<figure class="finalist-item"><a class="finalist-link" href="${urlFor(c.id)}" data-comic="${c.id}" aria-label="Open ${escape(c.title)}"><img src="${c.display||c.image}" alt="${escape(c.alt)}" width="2000" height="1500" loading="${i<2?'eager':'lazy'}" decoding="async"><figcaption class="finalist-caption"><h3>${escape(c.title)}</h3></figcaption></a></figure>`).join('');
+  grid.innerHTML=comics.map((c,i)=>`<figure class="finalist-item"><a class="finalist-link" href="${urlFor(c.id)}" data-comic="${c.id}" aria-label="Open ${escape(c.title)}"><img src="${previewFor(c.display||c.image,480)}" srcset="${previewFor(c.display||c.image,480)} 480w, ${previewFor(c.display||c.image,960)} 960w" sizes="(max-width: 600px) 88vw, (max-width: 1000px) 43vw, 450px" alt="${escape(c.alt)}" width="2000" height="1500" loading="${i<2?'eager':'lazy'}" decoding="async"><figcaption class="finalist-caption"><h3>${escape(c.title)}</h3></figcaption></a></figure>`).join('');
   cards=Array.from(grid.children);
   const id=selected();renderGallery(id&&indexFor(id)>=0?indexFor(id):startFromUrl());
   if(id&&indexFor(id)>=0){returnFocus=grid.querySelector(`[data-comic="${id}"]`);show(id);}else if(id){history.replaceState(null,'',galleryUrl(anchorIndex));}

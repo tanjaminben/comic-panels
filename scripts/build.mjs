@@ -72,6 +72,11 @@ for (const name of ['comic-panels.css', 'comic-panels.js', 'comics.json']) await
 for (const [relative, bytes] of sharedBytes) await emit(relative, bytes, 'shared portfolio dependency');
 for (const [image, bytes] of imageBytes) await emit('guides/comic-panels/images/' + image.filename, bytes, 'external approved signed image');
 for (const [image,bytes] of displayBytes) await emit('guides/comic-panels/images/'+image.filename,bytes,'verified full-resolution lossless display image');
+for(const preview of JSON.parse(await readFile(path.join(root,'art/gallery-previews.json'))).images){
+ const bytes=await readFile(path.join(assets,'previews',preview.file));
+ if(hash(bytes)!==preview.sha256||bytes.length!==preview.bytes)throw Error('Gallery preview mismatch: '+preview.file);
+ await emit('guides/comic-panels/images/previews/'+preview.file,bytes,'verified gallery-only preview; full-size reader retained');
+}
 const receipt = { schemaVersion: 1, sourceManifest: manifest, shell: { source: templatePath, sha256: hash(template), owner: 'external shared website' }, externalAssets: { source: assets, copiedWithoutConversion: true }, sharedDependencies: dependencies, files: outputs };
 await writeFile(path.join(output, 'BUILD-MANIFEST.json'), JSON.stringify(receipt, null, 2) + '\n');
 console.log(JSON.stringify({ output, publicRoot, files: outputs.length, approvedImages: imageBytes.length, sharedDependencies: dependencies.length }));
