@@ -37,6 +37,8 @@ npm run preview -- .local/gallery 8926
 
 `--portfolio-root` expects a directory containing `site/` with the shared collection page and resources. `--assets-root` supplies the 18 signed PNGs pinned in `art/manifest.json` and the 18 lossless WebP files pinned in `art/derivatives.json`.
 
+The gallery build also needs the gallery-only files under previews/, pinned by art/gallery-previews.json. Their original-image hashes, whole-canvas resize and dimensions are recorded in the website gallery-preview manifest. Full-size reader and download files remain unchanged.
+
 ## Build and check
 
 Source verification checks panel IDs, source hashes, and data mappings. The reader test checks image loading and cleanup. Builds require a fresh output directory, validate PNG hashes and dimensions plus WebP hashes, and copy the images unchanged. The preview serves only `OUTPUT/public/`.

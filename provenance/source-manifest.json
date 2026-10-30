@@ -13,18 +13,23 @@
     },
     {
       "path": "src/comic-panels.css",
-      "bytes": 7567,
-      "sha256": "089094f4ca3959cbd3c33422a974baf645595ccc4588f04ab30955beadf1f032"
+      "bytes": 7543,
+      "sha256": "872a058fbd45c2ec74c7893b8ce454a0066d5f1ad1d2647f55746bf196c086fa"
     },
     {
       "path": "src/comic-panels.js",
-      "bytes": 7840,
-      "sha256": "798cc83cfc570c35df7aa2ec9cf762bbc104cf82a08c282ff59c32203aec2046"
+      "bytes": 8059,
+      "sha256": "7f0b51f6a599b17e7d921e749dba4cc1bf7c9e9c05595bbdde588d19467c98a7"
     },
     {
       "path": "src/comics.json",
       "bytes": 12408,
       "sha256": "b50d104256719f4e44e012d1edd4d7856127afefd9e3cda5e115bf7f96730289"
+    },
+    {
+      "path": "art/gallery-previews.json",
+      "sha256": "fd1ab1c055e3add702179698cca8f28def29dbb756e7281d45376d0b8579715f",
+      "bytes": 12224
     }
   ],
   "localChanges": {
@@ -32,5 +37,7 @@
     "committed": false,
     "path": "src/main.html",
     "baseSha256": "c2b2da1f9fcd5608c40de950062a2a5ea82925a57408352e7a8a10a2b13c4932"
-  }
+  },
+  "priorManifestSha256": "1b139d4ab56b952a2f3581f3f4ba8fa104dd657ec08d919d2b98e7279ac008ab",
+  "approval": "October 29, 2026: Ben approved migration audit A01-A17 for tuck and deploy; this owner covers gallery previews and applicable reader corrections."
 }
